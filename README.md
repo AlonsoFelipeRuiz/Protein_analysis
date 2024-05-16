@@ -11,3 +11,8 @@ Si no tienes las librerías instaladas, corre este código:
 ```bash
 !pip install biopython prody matplotlib bio2bel_pfam py3Dmol pandas
 ```
+## A aprender!!
+Una vez instalados los paquetes solamente tendrás que abrir el archivo ``Proteins.ipynb`` e ir siguiendo las instrucciones
+
+Dudas o sugerencias enviadlas a alonso.felipe@evolvingtherapeutics.es
+No te olvides de seguirme para futuros talleres https://www.linkedin.com/in/alonsofeliperuiz/
